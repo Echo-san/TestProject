@@ -1,3 +1,3 @@
 public class Test{
-    public string echo = "echo";
+    public string echo = "potato";
 }
